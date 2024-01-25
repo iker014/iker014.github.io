@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /iker014.github.io/
+Disallow: /
